@@ -10,7 +10,7 @@
 
 Gh0st-Finder: Advanced Username Discovery Tool
 Find usernames across social networks and platforms
-Author: Ranjith | Version: 1.0.0
+Author: gh0st-cipher | Version: 1.0.0
 """
 
 import sys
@@ -34,7 +34,7 @@ import webbrowser
 __shortname__ = "Gh0st-Finder"
 __longname__ = "Gh0st-Finder: Username Discovery Tool"
 __version__ = "1.0.0"
-__author__ = "Ranjith"
+__author__ = "gh0st-cipher"
 
 default_data_url = "https://raw.githubusercontent.com/sherlock-project/sherlock/master/sherlock_project/resources/data.json"
 globvar = 0
@@ -913,3 +913,4 @@ def main():
     
 if __name__ == "__main__":
     main()
+
